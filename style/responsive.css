@@ -7,6 +7,12 @@
         margin-top: 5px;
         width: 300px;
     }
+    .titulo{
+        font-size: 30px;
+    }
+    .descricao{
+        font-size: 10px;
+    }
 }
 
 @media screen and (max-width: 1000px) {
@@ -15,3 +21,4 @@
     }
     
 }
+

@@ -24,6 +24,18 @@ header .container{
     justify-content: space-between;
     
 }
+header .container1{
+    margin-top: 35px;
+    margin-left: 22px;
+    font-size: 'arial';
+    font-size: 17px;
+}
+header .container2{
+    margin-top: 0px;
+    margin-left: 22px;
+    font-size: 'arial';
+    font-size: 17px;
+}
 
 header .logo{
     margin-left: 5px;
